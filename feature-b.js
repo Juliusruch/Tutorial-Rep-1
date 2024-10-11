@@ -1,0 +1,1 @@
+console.log("GOld is also a precious metall and very shiny (feature-b)");
